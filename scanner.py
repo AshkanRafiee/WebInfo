@@ -12,3 +12,4 @@ try:
 except:
     print("check syntax or your internet connection !")
     print("*Syntax",sys.argv[0],"http://www.example.com")
+#whatweb
